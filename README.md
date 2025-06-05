@@ -29,3 +29,10 @@ The app should now launch normally.
 2. When prompted, select the `.csv` file you want to clean.
 3. The app will automatically process and clean your data.
 4. The cleaned `.csv` file (with the `_cleaned` suffix in the name) will be saved to the same folder as the app.
+
+## License
+
+This project is not open source.
+
+All rights reserved. You may not use, distribute, or modify this software without explicit written permission. See the [LICENSE](./LICENSE) file for more details.
+
