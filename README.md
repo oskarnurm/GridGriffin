@@ -27,5 +27,5 @@ The app should now launch normally.
 
 1. Double-click on `GridGriffin.app` to launch it.
 2. When prompted, select the `.csv` file you want to clean.
-3. The app will process and clean your data automatically.
-4. The cleaned `.csv` (with the `_cleaned` extention) will be saved to the same folder where the app is located.
+3. The app will automatically process and clean your data.
+4. The cleaned `.csv` file (with the `_cleaned` suffix in the name) will be saved to the same folder as the app.
