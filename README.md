@@ -1,6 +1,4 @@
-# GridGriffin Installation Guide
-
-Small data normalizer script
+# Instructions
 
 ## 📦 Download & Install
 
