@@ -1,4 +1,6 @@
 # Instructions
+>[!NOTE]  
+This is a small program that is only compatible with macOS. Read the entire README for installation instructions.
 
 ## 📦 Download & Install
 
